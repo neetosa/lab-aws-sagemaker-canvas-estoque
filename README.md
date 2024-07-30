@@ -31,7 +31,7 @@ Este projeto envolve a utilização do SageMaker Canvas da AWS para realizar pre
 ## 3. Previsão de Preços
 
 - Produto 13:
-[![ID13.jpg](https://i.postimg.cc/cHdPZT5y/ID13.jpg)](https://postimg.cc/7CQKn1km)
+![ID13.jpg](https://i.postimg.cc/cHdPZT5y/ID13.jpg)
 
 Podemos observar três possivéis casos:
     1. Vermelho: Caso menos otimista, apresenta uma baixa no valor do produto. Significando um queda no lucro, porém um bom indicativo para compra de estoque.

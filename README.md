@@ -31,6 +31,7 @@ Este projeto envolve a utilização do SageMaker Canvas da AWS para realizar pre
 ## 3. Previsão de Preços
 
 - Produto 13:
+  
 [![duRU5HF.md.jpg](https://iili.io/duRU5HF.md.jpg)](https://freeimage.host/i/duRU5HF)
 
 Podemos observar três possivéis casos:
